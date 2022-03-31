@@ -39,7 +39,7 @@ a{
 }
 .firstpart-header{
     position: absolute;
-    top: 400px;
+    top: 235px;
     left: 234px;
 }
 h1{
@@ -55,7 +55,7 @@ h1{
     width: 352px;
     height: 64px;
     color: #ffffff;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 .sticky{
     position: sticky;
@@ -63,13 +63,13 @@ h1{
     color: #ffffff;
     font-size: 25px bold;
     font-family: Poppins;
-    margin-top: 105px;
+    margin-top: 95px;
 }
 .symbols{
     position: absolute;
     display: flex;
-    right: 240px;
-    top: 720px;
+    right: 175px;
+    top: 534px;
 }
 .symbol-first,.symbol-second{
     display: inline-block;
@@ -90,21 +90,49 @@ h1{
 .maininformation{
     display: inline-block;
     margin-top: 740px;
-
+    margin-left: 234px;
 }
-h2{
+.h-second{
     font-size: 42px;
-
+    width: 330px;
+    height: 115px;
 }
 .p1{
     font-size: 16px;
+    height: 80px;
+    width: 444px;
 
 }
 .p2{
-
+    font-size: 16px;
+    height: 80px;
+    width: 444px;
 }
 .secondpart-images{
     display: inline-block;
     vertical-align: top;
-
+    width: 700px;
+    height: 100px;
+    margin-top: 740px;
+    margin-left: 90px;
+}
+.crazyapool{
+    padding-left: 15px;
+}
+.palms{
+    width: 539px;
+    height: 261px;
+    padding-top: 16px;
+}
+.infobutton{
+    display: inline-block;
+    height: 50px;
+    width: 184px;
+    border: none;
+    padding: 0;
+    margin-top: 57px;
+    margin-left: 250px;
+    background-color: #5863F8;
+    font-size: 14px;
+    color: white;
 }
