@@ -1,19 +1,13 @@
 *{
     box-sizing: border-box;
-
-}
-ul{
-    list-style: none;
-
 }
 a{
-    text-decoration: none;
     color: #ffffff;
 }
 .firstbackground{
     position: absolute;
     width: 100%;
-    height: 662px;
+    height: 720px;
 }
 .first-list{
     position: relative;
@@ -88,24 +82,26 @@ h1{
     background-color: #5863F8;
 }
 .maininformation{
+    font-family: Poppins;
     display: inline-block;
     margin-top: 740px;
     margin-left: 234px;
 }
 .h-second{
     font-size: 42px;
-    width: 330px;
+    width: 374px;
     height: 115px;
 }
 .p1{
     font-size: 16px;
-    height: 80px;
+    height: 78px;
     width: 444px;
+
 
 }
 .p2{
     font-size: 16px;
-    height: 80px;
+    height: 84px;
     width: 444px;
 }
 .secondpart-images{
@@ -135,4 +131,45 @@ h1{
     background-color: #5863F8;
     font-size: 14px;
     color: white;
+}
+.footerdiv{
+    font-family: Poppins;
+    background-color: #121212;
+    height: 320px;
+    width: 100%;
+    color: white;
+    margin-top: 119px;
+    border-top: 72px;
+    padding-left: 229px;
+    display: inline-block;
+}
+h3{
+    font-family: Poppins;
+    font-size: 24px bold;
+    padding-top: 51px;
+}
+.footerp{
+    font-family: Poppins;
+    font-size: 14px;
+    width: 828px;
+    height: 30px;
+    padding-top: 45px;
+}
+.iconesection{
+    /* padding-bottom: 61px; */
+    padding-top: 101px;
+    margin-bottom: 17px;
+}
+.image{
+    margin-right: 21px;
+    /* padding-top: 71px; */
+}
+.marian{
+    color: #5863F8;
+    text-decoration: underline;
+}
+.lastp{
+    /* padding-top: 13px; */
+    font-size: 14px;
+    font-family: Poppins;
 }
